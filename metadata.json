@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI SVG Concept Generator",
+  "description": "An application to generate unique SVG images from textual concepts and inspirational images using the Gemini API. Upload images, describe your vision, and let the AI create a custom vector graphic for you.",
+  "requestFramePermissions": []
+}
